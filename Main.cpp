@@ -3,6 +3,9 @@
 
 using namespace std;
 
+// demo of advanced file IO
+// read Gaddis Ch. 12 for more info
+
 int main() {
 	string line;
 	// can use fstream to open a file for both reading and writing
